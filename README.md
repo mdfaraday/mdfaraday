@@ -10,7 +10,7 @@
 
 * Javascript
 * React
-* React Native
+* React Native - Android, iOS
 
 ## Current Projects
 
@@ -24,7 +24,13 @@
 
 ![BookNotesScreens](https://user-images.githubusercontent.com/57548521/115157731-e1281a00-a058-11eb-8e53-24bdebbc3bab.png)
 
-#### Original Design Diagram
+### Real Estate Friend
 
-![BookNotesDiagram](https://user-images.githubusercontent.com/57548521/115157750-f2712680-a058-11eb-8cbe-0ffc61927f39.png)
+#### Efficient. An app to keep track of real estate properties.
 
+#### Tech: React Native, Firebase authentication and database, Context API, styled-components
+
+#### Features: User authentication, property info management, work order record keeping, expense monitoring
+
+![RealEstateFriend-Overview](https://user-images.githubusercontent.com/57548521/115976783-805c7e00-a53f-11eb-983f-f06441c7c6ea.png)
+![home_bg](https://user-images.githubusercontent.com/57548521/115976785-80f51480-a53f-11eb-9cf1-178a5463b3df.jpg)
