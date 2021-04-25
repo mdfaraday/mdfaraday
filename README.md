@@ -20,6 +20,8 @@
 
 #### Tech: React Native, Firebase Realtime Database, Redux
 
+#### Features: hot search, single-page, efficient layout
+
 ![BookNotesScreens](https://user-images.githubusercontent.com/57548521/115157731-e1281a00-a058-11eb-8e53-24bdebbc3bab.png)
 
 #### Original Design Diagram
