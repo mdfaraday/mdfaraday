@@ -33,4 +33,3 @@
 #### Features: User authentication, property info management, work order record keeping, expense monitoring
 
 ![RealEstateFriend-Overview](https://user-images.githubusercontent.com/57548521/115976783-805c7e00-a53f-11eb-983f-f06441c7c6ea.png)
-![home_bg](https://user-images.githubusercontent.com/57548521/115976785-80f51480-a53f-11eb-9cf1-178a5463b3df.jpg)
