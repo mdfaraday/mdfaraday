@@ -8,9 +8,8 @@
 
 ### I work with the following technologies:
 
-* Javascript
-* React
 * React Native - Android, iOS
+* Firebase, SQLite, Google Maps
 
 ## Current Projects
 
