@@ -9,7 +9,7 @@
 ### I work with the following technologies:
 
 * React Native - Android, iOS
-* Firebase, SQLite, Google Maps
+* Firebase, SQLite, REST api, Google Maps
 
 ## Current Projects
 
