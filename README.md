@@ -6,10 +6,11 @@
 # Marshall Faraday - React Native Developer
 
 
+### I love working with computers and have found a passion for building apps!
 ### I work with the following technologies:
 
 * React Native - Android, iOS
-* Firebase, SQLite, REST api, Google Maps
+* Firebase, SQLite, API's, hooks, es6, Google Maps and more
 
 ## Current Projects
 
